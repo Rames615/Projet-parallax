@@ -3,6 +3,7 @@
     padding:0;
     box-sizing: border-box;
     text-decoration: none;
+    overflow-x: hidden;
 }
 
 body,html{
@@ -35,7 +36,7 @@ nav a {
 }
 
 .hero{
-    background-image: url(https://picsum.photos/1550/700?random=4);
+    background-image: url("https://picsum.photos/1950/900?random=4");
     background-repeat: no-repeat;
     padding :20px;
     width: 100%;
